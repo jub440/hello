@@ -1,3 +1,7 @@
 hello 
+<<<<<<< HEAD
 my name is jubby
 it me
+=======
+my name is jubby
+>>>>>>> master
